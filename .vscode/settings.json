@@ -1,5 +1,9 @@
 {
     "files.associations": {
-        "cstdio": "c"
+        "cstdio": "c",
+        "cwchar": "c",
+        "type_traits": "c",
+        "cmath": "c",
+        "limits": "c"
     }
 }
