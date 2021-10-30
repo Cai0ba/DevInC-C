@@ -4,6 +4,8 @@
         "cwchar": "c",
         "type_traits": "c",
         "cmath": "c",
-        "limits": "c"
+        "limits": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c"
     }
 }
